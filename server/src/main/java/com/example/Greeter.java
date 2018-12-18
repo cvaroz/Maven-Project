@@ -13,7 +13,6 @@ public class Greeter {
   }
 
 /**
- * 
  * @param someone the name off a person
  * @return gretting string
  */

@@ -4,12 +4,3 @@
  * and open the template in the editor.
  */
 package com.example;
-
-/**
- *
- * @author Usuario
- * this is a package name
- */
-public class package-info {
-    
-}
