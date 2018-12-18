@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/*
-this is a package name
-*/
+/**
+ * this is a package name
+ */
 package com.example;
